@@ -2,5 +2,5 @@
 # Kotlin with Maven
 ========================
 
-config and support Maven [here](https://kotlinlang.org/docs/reference/using-maven.html/)
+config and support Maven [here](https://kotlinlang.org/docs/reference/using-maven.html)
 [Github](https://github.com/) 
